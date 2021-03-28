@@ -24,7 +24,7 @@ def sanitize():
     elif cho == "n" or cho == "N":
         print("Thanks for using us")
     else:
-        print("Tnvalid choice\n thanks for using us")        
+        print("Invalid choice\n thanks for using us")        
 
 if __name__ == '__main__':
     sanitize()
